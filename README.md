@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bakienes&" alt="bakienes" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakienes&show_icons=true&locale=en&layout=compact" alt="bakienes" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakienes&show_icons=true&locale=en&layout=compact" alt="bakienes" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bakienes&show_icons=true&locale=en" alt="bakienes" /></p>
 
